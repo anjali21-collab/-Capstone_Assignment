@@ -1,0 +1,2 @@
+101,Anjali,anjali@mail.com,B.Tech,97.2
+102,Rohan,rohan@mail.com,M.Tech,92.2
